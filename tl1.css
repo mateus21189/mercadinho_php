@@ -1,0 +1,62 @@
+body{
+    background-color: blueviolet;
+}
+
+#parte1{
+    background-color: blue;
+    height: 70px;
+    margin: 5px;
+
+}
+#parte1 h1{
+    text-align: center;
+    font-size: 55px;
+}
+#logo img{
+    width: 250px;
+    margin: 5px;
+    border-radius: 15px;
+}
+#parte2{
+    display: flex;
+   
+}
+#parte2_2{
+    margin: 5px;
+}
+.unico{
+    font-size: 18px;
+    background-color:blue;
+}
+.unico2{
+    font-size: 18px;
+    background-color:blue;
+    text-align: center;
+}
+#codigoBarras, #valorUnitario, #valorTotal{
+    background-color:bisque;
+    height: 70px;
+    width: 250px;
+    border-radius: 15px;
+}
+#listaProdutos{
+    background-color: bisque;
+    width: 100%;
+    border-radius: 15px;
+}
+#parte3{
+    display: flex;
+}
+#codigo, #funcionario{
+   background-color: bisque;
+   height: 80px;
+   width: 250px;
+   margin: 5px;
+   border-radius: 15px;
+}
+#subtotal{
+    margin: 5px;
+    width: 60%;
+    background-color: bisque;
+    border-radius: 15px;
+}
